@@ -1,8 +1,8 @@
 {
-    "name": "F",
+    "name": "f-theme",
     "displayName": "F",
-    "description": "F",
-    "version": "0.5.0",
+    "description": "F is a theme made for Markdown editing, by someone whose main use of VSCode is to write stories, novels and intentionally bad fanfiction.",
+    "version": "0.1.1",
     "publisher": "k4y4k",
     "engines": {
         "vscode": "^1.26.0"
@@ -22,5 +22,10 @@
                 "path": "./themes/F-color-theme.json"
             }
         ]
-    }
+    },
+    "galleryBanner": {
+        "color": "#22d07f",
+        "theme": "light"
+    },
+    "icon": "img/super duper.png"
 }
