@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/by-k4y4k/F-vscode-theme"
+    },
     "contributes": {
         "themes": [
             {
