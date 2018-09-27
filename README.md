@@ -9,6 +9,9 @@ F is a theme made for Markdown editing, by someone whose main use of VSCode is t
 ## Why F?
 F is the first letter in forgotten, *and* it's my favourite letter, *and* it's also something different. It's certainly easy to find in the Theme Picker :). 
 
+Interested? Hit ctrl/cmd-p inside of VSCode and type `ext install k4y4k.f`.
+
 ### TODO:
 - [ ] debug status bar colour looks yuck
 - [ ] admit to the world that I am actually 5 and yuck is an atomic-bomb level insult
+- [ ] light variant of theme, depending on if I decide I need one.
