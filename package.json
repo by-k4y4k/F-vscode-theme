@@ -1,0 +1,22 @@
+{
+    "name": "F",
+    "displayName": "F",
+    "description": "F",
+    "version": "0.5.0",
+    "publisher": "k4y4k",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "F",
+                "uiTheme": "vs-dark",
+                "path": "./themes/F-color-theme.json"
+            }
+        ]
+    }
+}
