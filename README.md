@@ -11,6 +11,8 @@ F is the first letter in forgotten, *and* it's my favourite letter, *and* it's a
 
 Interested? Hit ctrl/cmd-p inside of VSCode and type `ext install k4y4k.f`.
 
+Also, if you do end up using this theme (and you like it), you can come tell me about it (on Twitter)[https://twitter.com/by_k4y4k]! It'd be awesome to hear from someone else.
+
 ### TODO:
 - [ ] debug status bar colour looks yuck
 - [ ] admit to the world that I am actually 5 and yuck is an atomic-bomb level insult
