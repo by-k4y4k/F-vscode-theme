@@ -2,7 +2,7 @@
     "name": "f",
     "displayName": "F",
     "description": "F is a theme made for Markdown editing, by someone whose main use of VSCode is to write stories, novels and intentionally bad fanfiction.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "k4y4k",
     "engines": {
         "vscode": "^1.26.0"
