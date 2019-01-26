@@ -18,3 +18,11 @@
 ## 0.2.0
 
 - Complete redoing
+
+## 0.2.1
+
+- Brike everything; I don't want to talk about it
+
+## 0.2.2
+
+- Got everything under control in the areas of VSCode I use most.

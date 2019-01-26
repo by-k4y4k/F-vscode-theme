@@ -1,17 +1,19 @@
-# You Suck and Here's Why
+# Got Markdown files?
 
-## A Collection of Angry (and Thankfully Unsent) Letters to Various People
+## Excellent.
 
-### Compiled yesterday
+### So do I.
 
-- hello
-- I
-- am a list
+<!-- Praise the asterisks -->
 
-<!-- Oh, by the way, Future Me, we're out of milk -->
+- bread
+- eggs
+- breaded eggs
 
-1. I have numbers
-2. I am superior
-3. (2's a bit of a megalomaniac)
+# How to make Egg Bread
 
-Normal, _Italic,_ and **Bold**
+1. Cook egg
+2. Acquire bread
+3. Combine
+
+**Congratulations!** You made Egg Bread. _Not to be confused with Bread Egg._
