@@ -26,3 +26,7 @@
 ## 0.2.2
 
 - Got everything under control in the areas of VSCode I use most.
+
+## 0.2.3 (Comma Warrior)
+
+- Fixed a missing comma that brought Prettier and native JSON linting to its knees

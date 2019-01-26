@@ -15,7 +15,7 @@
     "debugExceptionWidget.background": "#463d3e",
     "debugExceptionWidget.border": "#463d3e",
     "debugToolBar.background": "#463d3e",
-    "diffEditor.insertedTextBackground": "#22d07f5d"
+    "diffEditor.insertedTextBackground": "#22d07f5d",
     "diffEditor.removedTextBackground": "#cd61f85d",
     "dropdown.background": "#463d3e",
     "dropdown.border": "#463d3e",
@@ -215,7 +215,6 @@
         "foreground": "#f9238d"
       }
     },
-
     {
       "name": "Invalid",
       "scope": "invalid",
