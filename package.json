@@ -1,31 +1,31 @@
 {
-    "name": "f",
-    "displayName": "F",
-    "description": "F is a theme made for Markdown editing, by someone whose main use of VSCode is to write stories, novels and intentionally bad fanfiction.",
-    "version": "0.1.2",
-    "publisher": "k4y4k",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/by-k4y4k/F-vscode-theme"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "F",
-                "uiTheme": "vs-dark",
-                "path": "./themes/F-color-theme.json"
-            }
-        ]
-    },
-    "galleryBanner": {
-        "color": "#22d07f",
-        "theme": "light"
-    },
-    "icon": "img/super-duper.png"
+  "name": "f",
+  "displayName": "F",
+  "description": "A theme for Markdown editing!",
+  "version": "0.2.0",
+  "publisher": "k4y4k",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/by-k4y4k/F-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "F",
+        "uiTheme": "vs-dark",
+        "path": "./themes/F-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#22d07f",
+    "theme": "light"
+  },
+  "icon": "img/super-duper.png"
 }
