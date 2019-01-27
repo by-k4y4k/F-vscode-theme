@@ -42,3 +42,15 @@ This release focuses on Pug (.pug) files
 **Misc changes:**
 
 - Selection highlights are now pink
+
+## 0.2.32 (Sizzlin' CSS)
+
+- SCSS class names are now blue to match entity names
+- SCSS variables are off-white to match units in rules
+- Pseudoelements are off-white to distinguish them from classes
+
+**Misc changes:**
+
+- Removed unnecessary "name": "..." declarations from theme file
+- Consolidated near-identical scope rules
+- Fixed breaking change to Markdown headers

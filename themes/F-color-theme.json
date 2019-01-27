@@ -202,59 +202,53 @@
   },
   "tokenColors": [
     {
-      "name": "Comment",
       "scope": "comment",
       "settings": {
         "foreground": "#625A5C"
       }
-    },
+    }, 
     {
-      "name": "Constant",
-      "scope": "constant",
-      "settings": {
-        "foreground": "#f9238d"
-      }
-    },
-    {
-      "name": "Invalid",
-      "scope": "invalid",
-      "settings": {
-        "foreground": "#463d3e"
-      }
-    },
-    {
-      "name": "Keyword",
-      "scope": "keyword",
+      "scope": [
+        "keyword",
+        "variable.scss",
+        "entity.other.attribute-name.pseudo-element.css"
+      ],
       "settings": {
         "foreground": "#d9d4ac"
       }
     },
     {
-      "name": "Storage",
-      "scope": "storage",
+      "scope": [
+        "support",
+        "entity.name.function",
+        "entity.name.section.markdown",
+        "entity.other",
+        "markup.heading"
+      ],
+      "settings": {
+        "foreground": "#22d07f"
+      }
+    },
+    {
+      "scope": ["constant", "markup.raw", "storage"],
       "settings": {
         "foreground": "#f9238d"
       }
     },
     {
-      "name": "String",
-      "scope": ["string", "entity.name"],
+      "scope": [
+        "string",
+        "entity.name",
+        "entity.other.attribute-name.class.css"
+      ],
       "settings": {
         "foreground": "#5f97ed"
       }
     },
     {
-      "name": "Markup List",
       "scope": "markup.list",
       "settings": {
         "foreground": "#edebee"
-      }
-    },
-    {
-      "name": "Markup Raw",
-      "scope": "markup.raw",
-      "settings": {
-        "foreground": "#f9238d"
       }
     },
     {
@@ -269,12 +263,6 @@
       "settings": {
         "foreground": "#cd61f8",
         "fontStyle": "underline"
-      }
-    },
-    {
-      "scope": "markup.heading",
-      "settings": {
-        "foreground": "#22d07f"
       }
     },
     {
@@ -316,21 +304,9 @@
       }
     },
     {
-      "scope": "entity.name.function",
-      "settings": {
-        "foreground": "#22d07f"
-      }
-    },
-    {
       "scope": "string.json.comments",
       "settings": {
         "foreground": "#d1ced1"
-      }
-    },
-    {
-      "scope": ["support", "entity.other"],
-      "settings": {
-        "foreground": "#22d07f"
       }
     }
   ]

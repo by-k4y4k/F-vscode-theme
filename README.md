@@ -1,7 +1,7 @@
 ![F... is for forgotten.](img/a.png)
 
-# F 0.2.31
-## Codename: Piglike Pug
+# F 0.2.32
+## Codename: Sizzlin CSS
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
 
