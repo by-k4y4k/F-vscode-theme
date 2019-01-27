@@ -30,8 +30,8 @@
     "editor.lineHighlightBackground": "#2a2021",
     "editor.lineHighlightBorder": "#463d3e",
     "editor.rangeHighlightBackground": "#463d3e",
-    "editor.selectionHighlightBackground": "#463d3e",
-    "editor.wordHighlightBackground": "#d9d4ac7f",
+    "editor.selectionHighlightBackground": "#f9238d7f",
+    "editor.wordHighlightBackground": "#f9238d7f",
     "editor.wordHighlightStrongBackground": "#f9238d7f",
     "editorBracketMatch.background": "#463d3e",
     "editorBracketMatch.border": "#463d3e",
@@ -198,7 +198,7 @@
     "walkThrough.embeddedEditorBackground": "#2a2021",
     "welcomePage.buttonBackground": "#463d3e",
     "welcomePage.buttonHoverBackground": "#625a5c",
-    "widget.shadow": "#2a2021",
+    "widget.shadow": "#2a2021"
   },
   "tokenColors": [
     {
@@ -238,7 +238,7 @@
     },
     {
       "name": "String",
-      "scope": "string",
+      "scope": ["string", "entity.name"],
       "settings": {
         "foreground": "#5f97ed"
       }
@@ -328,7 +328,7 @@
       }
     },
     {
-      "scope": "support",
+      "scope": ["support", "entity.other"],
       "settings": {
         "foreground": "#22d07f"
       }

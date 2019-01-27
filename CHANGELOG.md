@@ -21,7 +21,7 @@
 
 ## 0.2.1
 
-- Brike everything; I don't want to talk about it
+- Broke everything; I don't want to talk about it
 
 ## 0.2.2
 
@@ -30,3 +30,15 @@
 ## 0.2.3 (Comma Warrior)
 
 - Fixed a missing comma that brought Prettier and native JSON linting to its knees
+
+## 0.2.31 (Piglike Pug)
+
+This release focuses on Pug (.pug) files
+
+- entity names and quoted strings are now blue - **a**(href=**"#"**).heading-section\_\_button
+- class names are green - a(href="#")**.heading-section\_\_button**
+- attribute names are now pink - a(**href**="#").heading-section\_\_button
+
+**Misc changes:**
+
+- Selection highlights are now pink

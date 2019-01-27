@@ -1,7 +1,7 @@
 ![F... is for forgotten.](img/a.png)
 
-# F 0.2.3
-## Codename: Comma Warrior
+# F 0.2.31
+## Codename: Piglike Pug
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
 
