@@ -202,16 +202,11 @@
   },
   "tokenColors": [
     {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#625A5C"
-      }
-    }, 
-    {
       "scope": [
         "keyword",
         "variable.scss",
-        "entity.other.attribute-name.pseudo-element.css"
+        "entity.other.attribute-name.pseudo-element.css",
+        "markup.fenced_code.block.markdown"
       ],
       "settings": {
         "foreground": "#d9d4ac"

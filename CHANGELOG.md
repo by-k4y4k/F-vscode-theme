@@ -54,3 +54,7 @@ This release focuses on Pug (.pug) files
 - Removed unnecessary "name": "..." declarations from theme file
 - Consolidated near-identical scope rules
 - Fixed breaking change to Markdown headers
+
+## 0.2.33 (Markdown Down Down)
+
+- added rule for fenced codeblocks
