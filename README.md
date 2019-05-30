@@ -1,6 +1,9 @@
 ![F... is for forgotten.](img/a.png)
 
 # F 0.2.33
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/by-k4y4k/F-vscode-theme.svg)](https://greenkeeper.io/)
+
 ## Codename: Markdown Down Down
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
