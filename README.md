@@ -6,11 +6,11 @@
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
 
-This theme was originally made specifically for Markdown editing. Its main goal was to make headings, bolding and italicisation more visually distinct:
+This is a theme to make Markdown editing less samey (I do a lot of this in Code).
 
-![An example of the theme:](img/example-md.png)
+![F is for "far out this is great"](./img/example-md.png)
 
-However, a problem arose when I began to use VSCode for things other than Markdown editing (that is, programming). Its syntax highlighting was identical to Monokai, which it was a shallow edit of.
+Also works for programming!
 
 ## Forget version 2, we're all grown up now!
 
