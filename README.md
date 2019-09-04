@@ -1,7 +1,8 @@
 ![F... is for forgotten.](img/a.png)
 
-# F 0.2.33
-## Codename: Markdown Down Down
+# F 0.3.0
+
+## aww uwu thank yooou!
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
 
@@ -11,21 +12,15 @@ This theme was originally made specifically for Markdown editing. Its main goal 
 
 However, a problem arose when I began to use VSCode for things other than Markdown editing (that is, programming). Its syntax highlighting was identical to Monokai, which it was a shallow edit of.
 
-## Introducing version 2!
+## Forget version 2, we're all grown up now!
 
-**F 0.2.0** comes with new colours and scope rules! This is an example of F in use inside a Gulpfile:
+(I say that like Internet Explorer 11 [once did](https://www.youtube.com/watch?v=f9Jl6HlX3bM), in that this theme very much is still in early beta).
 
-![q](img/example-js.png)
+F 0.3.0 has a few quality-of-life tweaks, and a few changes to what is coloured what colour.
 
-This also changes the Git colours, so here's a handy little table so that you don't get lost.
+![yeah baby, check that screenshot](./img/example.png)
 
-| **Meaning** | **Colour** | **Human Name** |
-| ----------- | ---------- | -------------- |
-| Untracked   | #22d07f    | Green          |
-| Modified    | #d9d4ac    | Off-white      |
-| Deleted     | #cd61f8    | Purple         |
-
-<br />
+Fira Code looks nice, but F makes it nicer :wink:
 
 ## Why F?
 
