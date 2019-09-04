@@ -1,5 +1,3 @@
-![F... is for forgotten.](img/a.png)
-
 # F 0.3.0
 
 ## aww uwu thank yooou!
@@ -28,7 +26,7 @@ F is the first letter in forgotten, _and_ it's my favourite letter, _and_ it's a
 
 Interested? Hit ctrl/cmd-p inside of VSCode and type `ext install k4y4k.f`.
 
-### What's that thing in the icon and the banner?
+### What's that thing in the icon?
 
 She's a wyvern who is, as yet, nameless.
 
