@@ -2,7 +2,7 @@
   "name": "f",
   "displayName": "F",
   "description": "A theme for Markdown editing!",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "publisher": "k4y4k",
   "engines": {
     "vscode": "^1.22.0"

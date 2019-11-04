@@ -1,6 +1,6 @@
-# F 0.3.0
+# F 0.3.2
 
-## aww uwu thank yooou!
+## Deep Blue Sea
 
 As in: I had forgotten that this hadn't been published when I wanted to use it on another computer.
 

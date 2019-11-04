@@ -58,3 +58,7 @@ This release focuses on Pug (.pug) files
 ## 0.2.33 (Markdown Down Down)
 
 - added rule for fenced codeblocks
+
+## 0.3.2 (Deep Blue Sea)
+
+- tweak colour scheme: colour numbers of numbered lists
